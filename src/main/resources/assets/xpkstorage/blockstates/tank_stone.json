@@ -1,0 +1,11 @@
+{
+  "forge_marker": 1,
+  "variants": {
+    "normal": {
+      "model": "xpkstorage:tank",
+      "textures": {
+        "particle": "blocks/stone"
+      }
+    }
+  }
+}

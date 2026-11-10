@@ -1,0 +1,16 @@
+{
+  "parent": "block/block",
+  "textures": {
+    "lock": "xpkstorage:blocks/barrel_lock",
+    "particle": "xpkstorage:blocks/barrel_lock"
+  },
+  "elements": [
+    {
+      "from": [0, 0, -0.1],
+      "to": [16, 16, -0.1],
+      "faces": {
+        "north": { "texture": "#lock", "cullface": "north" }
+      }
+    }
+  ]
+}

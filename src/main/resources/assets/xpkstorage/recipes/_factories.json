@@ -1,0 +1,6 @@
+{
+  "recipes": {
+    "xpkstorage:upgrade": "st.evening.mc.xpk.storage.recipe.ShapedUpgradeRecipe$Factory",
+    "xpkstorage:upgrade_shapeless": "st.evening.mc.xpk.storage.recipe.ShapelessUpgradeRecipe$Factory"
+  }
+}

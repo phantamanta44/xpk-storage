@@ -1,0 +1,7 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "xpkstorage:items/backpack",
+    "layer1": "xpkstorage:items/backpack_overlay"
+  }
+}

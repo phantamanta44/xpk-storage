@@ -1,0 +1,17 @@
+[
+  {
+    "modid": "${modId}",
+    "name": "XPK Storage",
+    "description": "Configurable tiered storage containers.",
+    "version": "${modVersion}",
+    "mcversion": "${mcVersion}",
+    "url": "",
+    "updateUrl": "",
+    "authorList": ["phantamanta44"],
+    "logoFile": "assets/xpkstorage/logo.png",
+    "screenshots": [],
+    "useDependencyInformation": true,
+    "dependencies": ["prelude"],
+    "requiredMods": ["prelude"]
+  }
+]

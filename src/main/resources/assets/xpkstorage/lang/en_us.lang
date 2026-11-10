@@ -1,0 +1,42 @@
+itemGroup.xpkstorage=XPK Storage
+
+item.xpkstorage.backpack_leather.name=Leather Backpack
+item.xpkstorage.backpack_iron.name=Iron Backpack
+item.xpkstorage.backpack_gold.name=Golden Backpack
+item.xpkstorage.backpack_diamond.name=Diamond Backpack
+
+tile.xpkstorage.barrel_stone.name=Stone Barrel
+tile.xpkstorage.barrel_iron.name=Iron Barrel
+tile.xpkstorage.barrel_gold.name=Golden Barrel
+tile.xpkstorage.barrel_diamond.name=Diamond Barrel
+
+tile.xpkstorage.chest_stone.name=Stone Chest
+tile.xpkstorage.chest_iron.name=Iron Chest
+tile.xpkstorage.chest_gold.name=Golden Chest
+tile.xpkstorage.chest_diamond.name=Diamond Chest
+
+tile.xpkstorage.tank_stone.name=Stone Tank
+tile.xpkstorage.tank_iron.name=Iron Tank
+tile.xpkstorage.tank_gold.name=Golden Tank
+tile.xpkstorage.tank_diamond.name=Diamond Tank
+
+tooltip.xpkstorage.keep_contents=Retains contents when broken
+tooltip.xpkstorage.backpack_size=Stores %d slots of items
+tooltip.xpkstorage.backpack_contents=Contains %d items(s)
+tooltip.xpkstorage.barrel_size=Stores %,d of one item
+tooltip.xpkstorage.barrel_contents=Contains %,d x %d
+tooltip.xpkstorage.chest_size=Stores %d slots of items
+tooltip.xpkstorage.chest_contents=Contains %d items(s)
+tooltip.xpkstorage.tank_size=Stores %,d mB of fluid
+tooltip.xpkstorage.tank_contents=Contains %,d mB of %s
+
+key.categories.xpkstorage=XPK Storage
+key.xpkstorage.open_backpack=Open Backpack
+
+subtitles.xpkstorage.item.backpack.open=Backpack opens
+subtitles.xpkstorage.item.backpack.close=Backpack closes
+subtitles.xpkstorage.block.barrel.insert=Barrel filled
+subtitles.xpkstorage.block.barrel.insert_all=Barrel filled
+subtitles.xpkstorage.block.barrel.extract=Barrel emptied
+subtitles.xpkstorage.block.barrel.lock=Barrel locked
+subtitles.xpkstorage.block.barrel.unlock=Barrel unlocked

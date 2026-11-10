@@ -1,0 +1,36 @@
+{
+  "item.backpack.open": {
+    "subtitle": "subtitles.xpkstorage.item.backpack.open",
+    "sounds": ["xpkstorage:backpack_open"]
+  },
+  "item.backpack.close": {
+    "subtitle": "subtitles.xpkstorage.item.backpack.close",
+    "sounds": ["xpkstorage:backpack_close"]
+  },
+  "block.barrel.insert": {
+    "subtitle": "subtitles.xpkstorage.block.barrel.insert",
+    "sounds": ["xpkstorage:barrel_insert"]
+  },
+  "block.barrel.insert_all": {
+    "subtitle": "subtitles.xpkstorage.block.barrel.insert_all",
+    "sounds": ["xpkstorage:barrel_insert_all"]
+  },
+  "block.barrel.extract": {
+    "subtitle": "subtitles.xpkstorage.block.barrel.extract",
+    "sounds": ["random/pop"]
+  },
+  "block.barrel.lock": {
+    "subtitle": "subtitles.xpkstorage.block.barrel.lock",
+    "sounds": [{
+      "name": "random/click",
+      "pitch": 0.55
+    }]
+  },
+  "block.barrel.unlock": {
+    "subtitle": "subtitles.xpkstorage.block.barrel.unlock",
+    "sounds": [{
+      "name": "random/click",
+      "pitch": 0.5
+    }]
+  }
+}

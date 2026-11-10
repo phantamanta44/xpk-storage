@@ -1,0 +1,29 @@
+{
+  "forge_marker": 1,
+  "defaults": {
+    "model": "xpkstorage:barrel",
+    "textures": {
+      "particle": "blocks/iron_block"
+    }
+  },
+  "variants": {
+    "facing": {
+      "north": {},
+      "east": {
+        "y": 90
+      },
+      "south": {
+        "y": 180
+      },
+      "west": {
+        "y": 270
+      }
+    },
+    "locked": {
+      "false": {},
+      "true": {
+        "submodel": "xpkstorage:barrel_lock"
+      }
+    }
+  }
+}
