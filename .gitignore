@@ -1,5 +1,6 @@
 # JetBrains stuff
 /.idea/
+/.kotlin/
 *.ipr
 *.iml
 
